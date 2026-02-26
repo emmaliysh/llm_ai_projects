@@ -1,0 +1,9 @@
+numpy
+faiss-cpu
+ollama
+gradio
+pandas
+pypdf
+pydantic
+sentence-transformers
+python-dotenv
